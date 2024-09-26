@@ -1,0 +1,32 @@
+/* SearchComponent.css */
+.search-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+  }
+  
+  .search-input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  

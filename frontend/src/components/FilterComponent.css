@@ -1,0 +1,34 @@
+/* FilterComponent.css */
+.container {
+    float: left;
+    width: 20%;
+  }
+  
+  .filter-input {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input, select, button {
+    margin: 5px 0;
+    padding: 8px;
+    width: 100%;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  

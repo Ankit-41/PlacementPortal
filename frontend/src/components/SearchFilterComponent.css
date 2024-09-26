@@ -1,0 +1,23 @@
+table {
+    border-spacing: 0; /* Collapse borders */
+    table-layout: auto; /* Allow automatic column width */
+  }
+  
+  th, td {
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+  
+  @media (max-width: 768px) {
+    th, td {
+      font-size: 0.875rem; /* Reduce font size on smaller screens */
+      padding: 0.5rem; /* Adjust padding */
+    }
+  
+    /* Optionally hide certain columns */
+    th:nth-child(5), td:nth-child(5), /* Hide Contact No */
+    th:nth-child(6), td:nth-child(6)  /* Hide Email ID */
+    {
+      display: none;
+    }
+  }
+  
