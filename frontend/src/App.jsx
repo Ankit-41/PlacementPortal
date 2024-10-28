@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import { ThemeProvider } from './context/ThemeContext';
 import './index.css'; // Import your Tailwind CSS file here
 import './App.css'
 
@@ -10,12 +10,12 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
+    <ThemeProvider>
+      <div className="min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors duration-300">
 
-
-{/* <h1>Student Placement and Internship Data</h1> */}
-<SearchFilterComponent />
-  </div>
+        <SearchFilterComponent />
+      </div>
+    </ThemeProvider>
   )
 }
 

@@ -10,9 +10,9 @@ Qualcomm India Private Limited
 Wipro Limited
 TATA Steel Ltd.
 Adobe Systems
-Capital One Services (India) Pvt. Ltd.
+Capital One Services
 Accenture Services Pvt. Ltd.
-Amazon Development Centre (India) Pvt. Ltd.
+Amazon Development Centre
 Schlumberger Asia Services Ltd.
 ITC Ltd.
 Infosys Ltd.,
@@ -46,7 +46,7 @@ Futures First info services Pvt Ltd
 Wipro
 GE Digital
 Qualcomm: Software Profile
-KLA Tencor Software India Pvt Ltd (APP)
+KLA Tencor Software India Pvt Ltd
 Samsung R&D Bangalore
 HSBC
 Applied Materials
@@ -54,16 +54,16 @@ ZS Associates Pvt. Ltd.: Business
 Tata Motors Ltd.
 Mahindra & Mahindra Ltd
 VMWare
-Next Education India Pvt. Ltd. (R&D)
-CGI Information Systems And Management Consultants
+Next Education India Pvt. Ltd.
+CGI Information Systems & Management Consultants
 Shell India Market Pvt. Ltd.
 Amazon
 American Express
 IBM Research
 ONGC
 Reckitt Benkiser
-Shimizu Corporation( Planning Engineer)
-Shimizu (Electrical & Mechanical Engineer)
+Shimizu Corporation
+Shimizu
 ISRO
 L&T Construction
 Larsen & Toubro Ltd.
@@ -71,17 +71,16 @@ ExxonMobil
 CitiGroup
 Bajaj Auto
 EATON
-National Engineering Industries (NBC) Ltd
+National Engineering Industries
 ISGEC Heavy Engineering Ltd.
-Sears(Software Engineer)
-Dar Al-Handasah Consultants (Shairs & Partners) India Pvt. Ltd. - Architect
-Dar Al-Handasah Consultants (Shairs & Partners) India Pvt. Ltd. - Structural Engineer
+Sears
+Dar Al-Handasah Consultants
 Fermyon Technologies India Pvt. Ltd.
 MasterCard
 Rivigo - Software Engineer
 Oxane Partners
 ASC Infratech
-Thornton Tomasetti (India) LLP
+Thornton Tomasetti
 Rivigo - Operations Manager
 Bidgely
 Busigence: Data Engineer
@@ -93,8 +92,8 @@ Steel Strips Wheel Limited
 Tata Communications Ltd.
 vConstruct Pvt.Ltd
 Denfab Engineers
-Hero MotoCorp Ltd (UG)
-Hero Motocorp Ltd (PG)
+Hero MotoCorp Ltd
+Hero Motocorp Ltd
 Sears Final Portal
 Samsung Noida
 Edfora Infotech Pvt Ltd
@@ -110,11 +109,11 @@ SAP India
 P2 Power Solutions - Power Engineering Group
 Ola Cabs SDE
 i3 Consulting
-Rohit Surfactants Pvt. Ltd. (RSPL Group)
+Rohit Surfactants Pvt. Ltd.
 Paytm
 Health Care at Home India Pvt. Ltd
 Thermofisher
-Ruptub Solutions Pvt limited ( Treebo  Hotels)- Software Profile
+Ruptub Solutions Pvt limited
 Finisar Corporation
 Microsoft Redmond
 C-Dot
@@ -122,7 +121,7 @@ Droom: Analyst QA
 Vizury Interactive Solutions
 Analytics Quotient MBA
 Bristlecone
-Cognizant Technology Solutions( Data analyst)
+Cognizant Technology Solutions
 ICICI BANK
 Kellton Tech
 KPMG
@@ -134,8 +133,7 @@ Treebo BA
 Capgemini
 TransBitTechnologies Software Private  Limited
 PwC Pvt. Ltd.
-Tata Consultancy Services Ltd.(Digital)
-Tata Consultancy Services Ltd.(Research)
+Tata Consultancy Services Ltd.
 Infosys Limited -Tech Analyst
 SCA Technologies-Software Anlayst
 Grappus Technologies Private  Limited
@@ -154,7 +152,7 @@ Sokrati Technologies Pvt. Ltd.
 Sjain - Developer
 Sjain-Manager Strategist
 Amplus Energy Solutions Pvt Ltd
-Cognizant technology solutions(Software)
+Cognizant technology solutions
 Nagarro Software
 Stat Decision Labs
 Vedanta
@@ -162,7 +160,7 @@ Suzlon
 ICICI Securities
 B & S Engineering Consultants Pvt. Ltd.
 Indian Oil Corporation Limited
-Huhtamaki PPL (for M.tech)
+Huhtamaki PPL
 Feedback Infra Pvt. Ltd
 JohnDeere India Pvt ltd
 Subros Ltd.
@@ -170,18 +168,17 @@ Mercedes Benz R&D
 1mg Technologies Pvt. Ltd
 Dehradun Institue of Technology
 Codalyze Technologies Pvt. Ltd.
-Capgemini (Final)
 Kanodia Technoplast Limited
 ICICI Lombard
 The Hi-Tech Robotic systemz Ltd.
 JK Technosoft
-Advanced Technology Consulting Service(ATCS)
-Subros(final)
+Advanced Technology Consulting Service
+Subros
 Diginext Education
 Xion Multiventures
 KPIT Technologies
 TEEVRA EDUTECH PVT LTD
-Vignan's Foundation for Science Technology and Research
+Vignan's Foundation for Science Technology & Research
 Galgotias University
 Piramal Foundation for Education Leadership
 Reliance Jio
@@ -190,14 +187,13 @@ MIDHANI
 OILMAX ENERGY PVT LTD
 Centre for Science of Student Learning
 Oliver Wyman India
-Novocura (Mfine)
+Novocura
 RELAXO FOOTWEARS LIMITED
 Quifers Tecnology - Business Development Manager
 Quifers Technology - Javascript Web Developer / Android  Developer
 Vishveshwarya Group of Institutions
-Centre for Social Responsibility and Leadership
+Centre for Social Responsibility & Leadership
 KIIT UNIVERSITY
-JK Technosoft (B Category)
 Amity University Madhya Pradesh
 Interview Bit
 MM University, Mullana
@@ -211,13 +207,13 @@ Siddhant Group of Institutions, Sudumbare, Pune
 Uflex Chemicals
 Teerthanker Mahaveer University
 Indian Oil Corporation Ltd. R & D Centre
-Knowledge Podium Systems Pvt Ltd (for UG)
+Knowledge Podium Systems Pvt Ltd
 TCY Learning Solutions P Ltd
-SMEC (Member of the Surbana Jurong Group)
+SMEC
 Essel Propack
 Hindustan College of Science & Technology
 Cairn India
-Microsoft India (R&D) Pvt. Ltd.
+Microsoft India
 Intuit
 Nutanix Technologies
 Bidgely Technology Pvt. Ltd.
@@ -227,7 +223,6 @@ JSW Steel Ltd.
 Qualcomm India Pvt. Ltd.
 EdgeVerve systems Limited
 1 mg Technologies Pvt. Ltd.
-Next Education India Pvt. Ltd.
 Reliance Industries Limited
 Samsung R&D Institute, India - Noida
 Adobe Research Labs
@@ -236,47 +231,42 @@ Droom
 TCS
 Amazon Development Centre India
 ITC Limited
-Jindal Stainless (Hisar) Limited
+Jindal Stainless
 Microland Limited
 Flipkart - SDE
 Flipkart - APM
 HSBC - Analyst
-Samsung(Banglore) - Software Engineer
-Samsung(Banglore) - Research
+Samsung
 Webstaff Co. Ltd.
 Bain Capability Centre
 Shapoorji Pallonji Engineering & Construction
 Tower Research Capital India Pvt. Ltd.
 MIDAS Information Technology
-Nokia Solutions and Networks
+Nokia Solutions & Networks
 Paypal
 Cisco Systems
 Societe Generale
-Bidgely (SE)
 Adobe
 Reckitt Benckiser
 Qualcomm
 Myntra Designs Pvt Ltd
 Cohesity
 Mercari
-SRF Ltd. (UG)
+SRF Ltd.
 Intel
 JP Morgan
 Oracle-Application Engineer
 Oracle-Server Technology
-Total Environment Building  Systems Pvt Ltd (Structural Design)
-Total Environment Building  Systems Pvt Ltd (Architectural  Design)
-Total Environment Building  Systems Pvt Ltd (Business Analyst)
+Total Environment Building  Systems Pvt Ltd
 Razorpay
 Citi-Application Analyst
 Citi- Production Support
-KPIT Technologies (UG)
 Nvidia
 Indian Space Research Organisation
 ZS Associates - DSA
 Direct I
-Mahindra and Mahindra Ltd.
-Oil and Natural Gas Corporation
+Mahindra & Mahindra Ltd.
+Oil & Natural Gas Corporation
 Telstra India Pvt Ltd
 Tata Steel
 PAYU
@@ -287,26 +277,24 @@ Fidelity Investments
 Unique Identification Authority Of India
 Oracle Financial Services Software
 Uber India Systems Pvt Ltd
-Yodlee (MTS)
+Yodlee
 Microland
 Larsen & Toubro Limited
 WS Atkins Pvt Ltd
 C-DOT
-FICO (Analytic Science - Scientist I)
-FICO(Software Engineering - Engineer I)
-HSBC (Striker)
+FICO
 Xceedance Consulting India Pvt Ltd
 JohnDeere India Pvt Ltd
 Caterpillar
 Reliance Industries Ltd
-Quantile Analytics (UG)
+Quantile Analytics
 Shell India Markets Private Limited
 Samsung R&D Institute- Delhi
 Rivigo-Software Engineer
 Rivigo-Business Analyst
 QUANTIPHI Inc.
 OYO Rooms
-Vedanta Oil and Gas
+Vedanta Oil & Gas
 Dar Al Handasah Consultants
 Ramboll India Pvt Ltd
 Mettl
@@ -315,35 +303,29 @@ TATA Consulting Engineers Limited
 Shimizu Corporation India Pvt. Ltd.
 Arth DesignBuild Pvt Ltd
 Future First
-Innovaccer Analyitcs Pvt.Ltd(Member of Technical Staff)
-Innovaccer Analyitcs Pvt.Ltd (Data Scientist)
+Innovaccer Analyitcs Pvt.Ltd
 Accenture Solutions Pvt Ltd
-Wipro Limited (Project Engineer)
 Infosys Ltd
-ZS Associates ( Decision Analytics Associate)
-ZS Associates (Business Operations Associate )
-ZS Associates (Business Technology Analyst )
+ZS Associates
 Schlumberger-Software
 Next Education Pvt. Ltd.
-Bharti Airtel Ltd.(Engineering)
+Bharti Airtel Ltd.
 Eaton
 Schlumberger- Petroleum Engineering
 Bharat Light & Power
 Paytm- APM
-Thornton Tomasetti
 Flynava Technologies - DS
 ZeMoSO Technologies Pvt Ltd
 ACG Pharma Technologies Pvt. Ltd
-PlaySimple Games Pvt Ltd (Bussiness Analyst)
+PlaySimple Games Pvt Ltd
 Thermo Fisher Scientific
 Axtria
 Clavileno Capital
-GE Digital (FTE)
 Delta Power Solutions
 Visa
 Oceaneering International Services  Limited
 Siemens Limited
-Robert Bosch Engineering and Business  Solutions Private Limited.
+Robert Bosch Engineering & Business  Solutions Private Limited.
 Hero MotoCorp.
 ePayLater Software
 ePayLater DS
@@ -373,7 +355,6 @@ MMTC-PAMP India Pvt. Ltd.
 Krishna Antioxidants Pvt. Ltd.
 Absolutdata Research & Analytics Solutions Pvt. Ltd.
 Virtusa
-Affine Analytics(MBA)
 Elegant Marine Services
 Relaxo Footwear Limited
 Xtlytics
@@ -385,18 +366,18 @@ DIT UNIVERSITY
 KEC INTERNATIONAL
 SYSTRA INDIA
 CSRL
-Impel Services P Ltd  (A Welbound group company)
+Impel Services P Ltd
 Uflex Ltd.
-Thapar Institute of Engineering and Technology (Deemed to be University), Patiala
+Thapar Institute of Engineering & Technology
 Tavant Technologies
 Thermax Ltd.
-Prachi Infrastructure Private Limited (UG & PG)
-BS Abdur Rahman Crescent Institute of  Science and Technology
+Prachi Infrastructure Private Limited
+BS Abdur Rahman Crescent Institute of  Science & Technology
 Code Flow Tech LLP
 Bookeventz
 Milkbasket
-Vignan's Foundation for Science, Technology and Research University (Vignan's University), Vadlamudi
-Maharishi Markandeshwar (Deemed to be University), Mullana
+Vignan's Foundation for Science, Technology & Research University
+Maharishi Markandeshwar
 Global Coordinates
 XLPAT TT Consultants Pvt Ltd
 Cipher Research Group
@@ -408,7 +389,7 @@ TCY Learning Solutions
 Transweb Educational Services Pvt Ltd
 Innoplexus
 Smec India Pvt. Ltd.
-National Council for Cement and Building Materials Under Administrative Control of Ministry of Comme
+National Council for Cement & Building Materials Under Administrative Control of Ministry of Comme
 KEC INTERNATIONAL LTD
 HDFC  - MBA
 ChapterApps
@@ -417,21 +398,18 @@ Tally Solutions - MBA
 Bristlecone - MBA
 Care Ratings - MBA
 Click Labs  - MBA
-Innoplexus(C)
 BigPhi Technologies Pvt. Ltd.
 Lummus Technology Heat Transfer BV
 EMERGY Enviro Pvt Ltd
 Alpla India Pvt. Ltd.
 Trident Limited
 Innovaccer
-Schlumberger, Pune (Software) - PPO
+Schlumberger, Pune
 Codenation Solutions LLp
 D. E. Shaw India Pvt. Ltd.
 JPMorgan Chase & Co.
 Fidelity Business Services India Pvt. Ltd.
 Futures First Info Services Pvt. Ltd.
-Texas Instruments (Digital) - PPO
-Texas Instruments (Analog) - PPO
 Samsung R&D, Bangalore
 Uber India Systems Private Limited
 Samsung R&D Institute India, Noida
@@ -439,8 +417,6 @@ Wipro Ltd.
 Samsung R&D Delhi
 ZestMoney
 KLA Tencor Software India Pvt. Ltd.
-ZS Associates
-Webstaff Co. Ltd. (Tokyo Gas) - PPO
 Flipkart.com
 KPIT
 Goldman Sachs Services Private Ltd.
@@ -449,19 +425,14 @@ Cohesity Storage Solutions India Pvt. Ltd.
 Fractal Analytics
 EXL Service Private Limited
 ONGC Limited
-Indian Research Space Organisation (ISRO)
+Indian Research Space Organisation
 EXL Service
 Harness
-JPMorgan Chase & Co. (Quantitative Researcher)
-A.P.T Portfolio (Infrastructure)
+A.P.T Portfolio
 AppDynamics India Pvt Ltd
 Alphonso Inc
-Microsoft (Software)
-Microsoft (Data Scientist)
-Samsung Semiconductor India R&D Center Bangalore (Hardware Profile)
-Samsung Semiconductor India R&D Center Bangalore (Software Profile)
-Oracle(ST)
-Oracle(Applications Engineer)
+Samsung Semiconductor India R&D Center Bangalore
+Oracle
 Western Digital
 Saavn
 Squarepoint Capital
@@ -471,13 +442,10 @@ Oski Technology,Inc.
 Salesforce
 Adobe Systems Pvt. Ltd
 Flipkart Internet Pvt Ltd
-Bidgely Technologies (Backend Developer)
+Bidgely Technologies
 Indus Insights
-Razorpay (Software)
-Hiveloop Technology Pvt. Ltd. (Udaan) - PPO
-SRF Ltd.
-Innovaccer Analytics (SDE)
-Innovaccer Analytics (Decision Scientist)
+Hiveloop Technology Pvt. Ltd.
+Innovaccer Analytics
 ThoughtSpot
 Bajaj Auto Limited
 Publicis.Sapient
@@ -485,18 +453,12 @@ Sterlite Technologies Limited
 Optum
 PhonePe
 Futures First Info Services Pvt Ltd
-Samsung Bangalore (Research)
-Samsung Bangalore (Developer)
-Innoplexus (Software)
-Innoplexus(Data)
+Samsung Bangalore
 Fractal Analytics Pvt. Ltd.
-ZS Associates India Pvt. Ltd (Data Science)
+ZS Associates India Pvt. Ltd
 PayU Payments Private Limited
 Uber India Systems Pvt. Ltd
-JPMorgan Chase & Co.(Software Engineer)
-HSBC Technology (Software Engineer)
-KLA Tencor Software India Pvt Ltd(Application Development)
-ZS Associates (Business Operations Associate)
+HSBC Technology
 FlyHomes
 Adobe Research Labs - Research
 Paytm /One97 Communications
@@ -504,10 +466,8 @@ Amazon India Development Center
 Citibank
 Edgeverve Systems
 Tesco
-Oravel Stays Private Limited (OYO) [ Business Analyst]
-Oravel Stays Private Limited (OYO) [ Project Associate]
-Intel Technology India Pvt Ltd(Software)
-Intel Technology India Pvt Ltd(Hardware)
+Oravel Stays Private Limited
+Intel Technology India Pvt Ltd
 IOCL R&D
 Sprinklr [Product Engineer]
 Reliance Jio Infocomm Ltd.
@@ -516,89 +476,64 @@ MyAdvo Techserve Private Limited [PM]
 Genpact
 Grab LLP
 Veritas Technologies LLC
-Clustr (SDE)
-Bidgely Technologies (Data Scientist)
+Clustr
 Quantiphi
-Zomato(SDE)
-Zomato(Operations)
+Zomato
 Starhome Mach
-ZILINGO (Graduate Trainee)
-ZILINGO (Software Developer)
+ZILINGO
 Myntra Jabong Pvt. Ltd.
 D.E. Shaw
-Mahindra & Mahindra Ltd.
-Razorpay (Designer)
 Works Applications Co. Ltd.
 Google
 Deloitte Consulting
 CureFit HealthCare Pvt. Ltd.
 CLUSTR
-Alphonso (BDA)
+Alphonso
 Eaton Technologies Private Limited
-Quantile Analytics Private Limited (Quantitative Developer Trainee)
-Quantile Analytics Private Limited (Quantitative Analyst Trainee)
+Quantile Analytics Private Limited
 Solar Energy Corporation Limited [SECI]
-Cisco Systems (Hardware Profile)
-Myntra Jabong (Data Analyst)
-Magicpin (APM)
-Magicpin (SE)
+Myntra Jabong
+Magicpin
 GE India
-L&T Construction (PG)
 Capgemini India
 Microland Ltd.
 L&T Limited
 PhonePe Private Limited
-MasterCard (AI)
 Willis Towers Watson
 Mathworks
 Samsung R&D Institute India - Noida
 Swiggy
 PeopleStrong HR Services
 SumTotal Systems India Pvt Ltd
-Mfine(BA)
-Mfine(SDE)
-Ezdi Solutions(RE)
-Upstox(SDE)
-Upstox(BA)
-OYO (Oravel Stays Private ltd.) [SDE profile]
+Mfine
+Ezdi Solutions
+Upstox
+OYO
 Reliance Jio [SDE]
 Axxela Advisory Services
-Bharat Light and Power
-iRage Brokering Services LLP (Software Developer)
-iRage Brokering Services LLP (Quantitative Analyst)
-American Express India(Technology)
+iRage Brokering Services LLP
 Accenture Solutions Pvt ltd
-Delhivery (FE)
-Droom Technology (Software Engineer)
+Delhivery
+Droom Technology
 Roposo
-L&T InfoTech  (Power Programmer)
+L&T InfoTech
 Google Inc
 Next Education- SDE
-Delhivery (ADS)
-Magicpin (Designer)
 Praktice.ai
 UDAAN [ Business Development]
 Uber International
-Fujifilm Software Co. Ltd._Webstaff Co. Ltd. (Tokyo Gas) - PPO
-Aasaanjobs (SDE 1)
-Aasaanjobs (Operations Manager )
-Aasaanjobs (UX)
+Fujifilm Software Co. Ltd._Webstaff Co. Ltd.
+Aasaanjobs
 NISSAN DIGITAL INDIA
 BNY Mellon International
-Jugnoo(Product Manager)
-Jugnoo(Software Engineer)
-Aasaanjobs (Associate Product Manager)
-Aasaanjobs (Business Analyst)
+Jugnoo
 eclerx Services Limited
 Maruti Suzuki
 Reliance Jio [GET]
 CGI
-The Smart Cube India Pvt Ltd (Research Analyst)
-The Smart Cube India Pvt Ltd (Data Analyst)
+The Smart Cube India Pvt Ltd
 [KBR] Kellogg Brown & Root Engineering & Construction India
-Infosys (Engineering Analyst)
-Infosys(Technology Analyst)
-Infosys (Specialist Programmer)
+Infosys
 Ernst & Young
 Praktice.ai: Data Analyst
 Praktice.ai: Product Manager
@@ -611,14 +546,9 @@ Livspace
 Tata Advanced Systems Limited
 Kinapse
 Pine Labs Pvt. Ltd.
-Affine Analytics(Business Analyst)
-Affine Analytics(Management Trainee)
-Log 9 Materials (Mechanical engineer)
-Log 9 Materials (Business Development and Analyst)
+Log 9 Materials
 vConstruct Pvt. Ltd.
 Kalpataru Ltd
-Dar Al Handasah Consultants (Shair & Partners) India Pvt. Ltd.
-Dar Al Handasah Consultants (Architecture)
 Crisp Analytics
 ATCS PVT LTD
 Virtusa Corporation
@@ -631,7 +561,7 @@ FN MathLogic Consulting services private limited
 FlyNava Technologies
 Piramal Foundation for Education Leadership- Gandhi Fellowship
 Tata Communications Limited
-SmartCube (Analyst)
+SmartCube
 Tata Projects
 Hero Motors
 Lummus Technology
@@ -641,15 +571,13 @@ UnitedLex Corporation
 PANDIT DEENDAYAL PETROLEUM  UNIVERSITY
 Meerut Institute of Engineering & Technology, Meerut
 Mahindra & Mahindra
-Madanapalle Institute of Technology and Science
+Madanapalle Institute of Technology & Science
 Cubastion Consulting Pvt Ltd
 B&S Engineering Consultants Pvt. Ltd.
 Endeavor Careers
 BRIDGECON INFRACONSULTANTS  PVT. LTD.
 Dunnhumby
-Thapar Institute of Engineering & Technology
-Indian Oil Corporation Ltd. (IOCL)
-Delhivery
+Indian Oil Corporation Ltd.
 RMSI Private limited
 Capgemini India Pvt. Ltd.
 Dev Bhoomi Group of Institutions
@@ -668,7 +596,7 @@ Onix Capital
 McAfee India Software Pvt Ltd.
 THDC India Ltd.
 Khurana Oleo Chemicals
-Jaguar Land Rover India Limited(Software)
+Jaguar Land Rover India Limited
 IBM India - PPO
 Publicis Sapient - PPO
 Nutanix Technologies - PPO
@@ -678,7 +606,6 @@ Bajaj Auto Ltd. - PPO
 JPMorgan Chase & Co. - PPO
 Texas Instruments - PPO
 OPTUM -PPO
-Cisco Systems (India) Pvt. Ltd. - PPO
 Uber India Systems Pvt. Ltd. - PPO
 Visa Inc - PPO
 Intuit India Product Development Center Pvt. Ltd. - PPO
@@ -696,8 +623,6 @@ Tata Steel Ltd. - PPO
 Goldman Sachs Services Private Ltd. - PPO
 ZestMoney - PPO
 Samsung R&D Institute India, Noida - PPO
-Jaguar Land Rover India Limited (Core Mechanical)
-Jaguar Land Rover India Limited(GEET)
 AppDynamics India Pvt. Ltd. - PPO
 Fujifilm Software Co., Ltd.  - PPO
 Amazon India Development Center - PPO
@@ -708,34 +633,29 @@ Grofers India Pvt. Ltd. - PPO
 Societe Generale - PPO
 ITC Limited - PPO
 HSBC - PPO
-Samsung Semiconductor India R&D Center - Bangalore (HW Digital)
-Sprinklr India Pvt. Ltd.(PE)
+Samsung Semiconductor India R&D Center - Bangalore
+Sprinklr India Pvt. Ltd.
 Adobe - PPO
 Thoughtspot India Pvt Ltd
 Publicis Sapient [Data Science]
 AppDynamics
 Accenture Japan Ltd.
-Google(Hardware)
-Google(Software)
 Bajaj Auto Ltd.
 Zomato Media Pvt. Ltd.
 SAP Labs
 Uber
 JioSaavn Pvt Ltd
-Oracle India Pvt. Ltd.(ST)
-Oracle India Pvt. Ltd.(Apps)
-Grofers(Software development)
+Oracle India Pvt. Ltd.
+Grofers
 JP Morgan Chase & Co. [Software]
-Qualcomm(HW)
 Cure.fit
 HSBC Technology India
 American Express India - PPO
 Squarepoint Capital 19
 Citrix R&D India PVT LTD
 Bidgely Technologies [Software Engineer]
-Cairn Oil and Gas ( Vedanta) - PPO
+Cairn Oil & Gas
 Siemens Healthineers
-Grofers(Data Analyst)
 Trident Ltd. - PPO
 Schlumberger
 Cisco [Software Engineer]
@@ -743,62 +663,45 @@ Intel Technology Pvt Ltd [Hardware]
 Nutanix
 Schlumberger Asia Services Ltd. - PPO
 INDUS INSIGHTS
-Cohesity (RE)
-Razorpay (APM)
-Zilingo(Data Analyst)
-SAMSUNG R & D INSTITUTE INDIA- DELHI(SRI-Delhi)
-JPMorgan Chase & Co. (Quantitative Research)
-Zilingo Funline Private Limited (Software Developer)
-Mastercard (AI)
-Mastercard (Analyst)
-Texas Instruments (Digital)
-Udaan.com (SDE)
-BNY Mellon Technology (India)
-BNY Mellon Technology (US)
-Microsoft India Pvt. Ltd.(Software)
-Microsoft India Pvt. Ltd.(ML)
+Zilingo
+SAMSUNG R & D INSTITUTE INDIA- DELHI
+Zilingo Funline Private Limited
+Mastercard
+Udaan.com
+BNY Mellon Technology
+Microsoft India Pvt. Ltd.
 Solv
 VMware
 Rupeek Fintech Private Limited [Software Development Engineer]
 Rupeek Fintech Private Limited [Graduate Trainee]
 Dream11
-Texas Instruments (Analog)
-Razorpay (Design)
 Gemini Solutions Private Limited
-Synopsys India Pvt Ltd (Software)
-Synopsys India Pvt Ltd (Hardware)
+Synopsys India Pvt Ltd
 Citi India
 ABInBev - GCC
-Axis Bank (Business Analyst)
-Axis Bank (RL & P - Cards: Digital Payments Product Manager)
-Axis Bank (Data Scientist - IT)
+Axis Bank
 Zauba Technologies Private Limited [SDE-R&D]
 Sterlite Technologies
 Bajaj Finance Limited [IT]
 Bajaj Finance Limited [Analytics]
 Media.net
-Jio (SDE) Profile1
+Jio
 HiLabs
-Paytm (One97 Communication)
 ARUP INDIA Pvt. Ltd.
-SOLAR ENERGY CORPORATION OF  INDIA LIMITED (SECI)
+SOLAR ENERGY CORPORATION OF  INDIA LIMITED
 Log9 Materials Scientific Pvt. Ltd.
 QUANTUM PHINANCE CONSULTING  PVT LTD
-Total Environment Building Systems Pvt  Ltd (Structural Design)
-Total Environment Building Systems Pvt  Ltd (Architectural Design)
-Robert Bosch Engineering and Business Solutions Private Limited, RBEI
-OYO
+Total Environment Building Systems Pvt  Ltd
+Robert Bosch Engineering & Business Solutions Private Limited, RBEI
 TATA ADVANCED SYSTEMS LIMITED
-Inito (Software)
-Inito (Design)
+Inito
 Acuvon Consulting Pvt. Ltd.
-Sprinklr (Product Analyst)
+Sprinklr
 Servicenow
 Nestle india
 MMTC-PAMP INDIA PVT LTD
 Larsen & Toubro Ltd
 vConstruct
-Mfine (Novocura Tech Health Services Pvt. Ltd.)
 Sigmoid Analytics [Associate Data Scientist]
 Udaan.com [Business analytics]
 Udaan.com [Operations]
@@ -807,23 +710,16 @@ BirdEye Software India private Limited
 Nference Labs
 Dnova Ifracon Pvt Ltd
 Auronova Consulting
-HIND RECTIFIERS LTD (Electrical Design) PG+PhD
+HIND RECTIFIERS LTD
 NVIDIA
-Quantiphi  (Machine Learning Engineer)
-Finnovation Tech Solutions Pvt. Ltd (Kreditbee/Krazybee)
+Finnovation Tech Solutions Pvt. Ltd
 GroupM Media India Pvt Ltd
-Sprinklr (Product Designer)
 Flipkart APM
-PhonePe (Graduate Trainee) PPO
-Texas instruments(SW)
-Microsoft(Redmond)
-Samsung Semiconductor India R&D Center - Bangalore (HW Communication)
-Samsung Research Bangalore (Developer Profile)
-Dunnhumby(Junior Engineer)
-Dunnhumby(Business Analyst)
+Texas instruments
+Samsung Research Bangalore
 PolicyBazaar
 Decision Point
-Amplus Solar (Civil Design)
+Amplus Solar
 CODING BLOCKS
 Bigphi Technologies Pvt. Ltd.
 Innoplexus Consulting Services Pvt Lmt
@@ -832,51 +728,36 @@ Xceedance Consulting
 Appy PIE LLP
 LnT Construction
 CONTATA SOLUTIONS PVT.LTD.
-BeeHyv Software(Developer Trainer 1)
+BeeHyv Software
 Axtria India Pvt. Ltd.
-Robert Bosch (Analytics)
+Robert Bosch
 Fluor Daniel India Private Limited
-Byjus (Think And Learn Pvt Ltd)
+Byjus
 TransOrg Solutions & Services Pvt Ltd
-Affine Analytics (Graduate Analyst)
-Vinculum Solutions (Trainee Engineer)
+Vinculum Solutions
 Praxis Global Alliance
-ATCS (BA-Project Coordinator)
-GSTN (Software)
+ATCS
+GSTN
 Broadridge Financial Solutions
-Jio (SDE) Profile2
-Vedanta Oil & Gas
 Aakash Institute
 Panasonic Life Solutions India P Ltd
 Raisoni Group of Institutions
 Teerthankar Mahaveer University
-Indian Oil Corporation Ltd.
 WS ATKINS INDIA PVT. LTD.
 64squares
 OptionTown
 V3iT Consulting Pvt Ltd.
 Netcracker Technolog Solutions India Pvt Ltd
-ARUP INDIA Pvt. Ltd. (Ph.D Role)
-AppDynamics (UX Designer - New Graduate)
-Xion Multiventures Pvt. Ltd. (Research Analysis & Operation Support)
-Xion Multiventures Pvt. Ltd. (Algorithmic Trader/Quantitative Trader)
+Xion Multiventures Pvt. Ltd.
 Just Dial Limited
 CRL - Bharat Electronics Limited
-Raramuri Technology Private Limited  (zopsmart.com)
+Raramuri Technology Private Limited
 Dunnhumby IT Services India Pvt. Ltd. - Research Data Scientist
 Accolite Software Pvt. Ltd.
-A.P.T Portfolio Private Limited (SW - PPO)
-Adobe (Product - PPO)
-Adobe (Research - PPO)
-Amazon (SDE - PPO)
-American Express (Technology - PPO)
-AppDynamics (SW - PPO)
-Axis Bank (SDE - PPO)
-Uber India System Pvt Ltd. (SDE - PPO)
-Axxela Advisory Services (Analyst - PPO)
-BNY Mellon (SDE - PPO)
-Cisco Systems (SDE - PPO)
-Topline Inc. (SDE-PPO)
+A.P.T Portfolio Private Limited
+Uber India System Pvt Ltd.
+BNY Mellon
+Topline Inc.
 Standard Chartered GBS India Pvt Ltd.
 Envestnet Yodlee
 Societe Generale Global Solution Center
@@ -886,244 +767,130 @@ Futures First
 Salesforce.com Pvt. Ltd.
 Hindustan Unilever Limited
 Publicis Sapient
-Oracle India Pvt. Ltd.
 Nutanix Technologies India Pvt. Ltd.
 Intel Technology Pvt. Ltd.
 Myntra
-JP Morgan Chase & Co (SW - PPO)
-Diverta Inc.
-Citrix R&D India PVT LTD (Software Engineer 1 & 2)
-AppDynamics (Software)
-Standard Chartered GBS India Pvt Ltd. (Software)
-Accenture Japan Ltd. (Digital Consultancy)
-Wells Fargo (Analytics & Modeling)
-JP Morgan Chase & Co (Software Engineer Program)
-Bajaj Auto Ltd. (Graduate Trainee Engineer (GTE))
-LG Ads (BDA)
-LG Ads (Technologist)
-Google (SW - PPO)
-Google (HW - PPO)
-SRF Limited (Design Trainee)
-Flipkart (SDE-1)
-Publicis Sapient (DS)
-Gameskraft Technologies (Software Engineering)
-Solar Energy Corporation of India Limited (SECI) (Executive Trainee (Civil))
-Solar Energy Corporation of India Limited (SECI) (Executive Trainee (Electrical))
-Societe Generale Global Solution Center (Software Engineer)
-Oracle India Pvt. Ltd. (Applications Development Group)
-Oracle India Pvt. Ltd. (Server Technology)
-Cisco Systems (SDE - FTE)
-iRageCapital Advisory Pvt Ltd (Quantitative Analyst)
-SAP Labs India Pvt Ltd (Developer)
-Axxela Advisory Services (Analyst)
-JP Morgan Chase & Co (Quantitative Research Analyst)
-BNY Mellon (Software)
-Bidgely (Software Engineer)
-Texas Instruments (Hardware)
-Applied Materials (Application Engineer)
-Intel Technology Pvt. Ltd. (Hardware)
-Intel Technology Pvt. Ltd. (Software)
-Goldman Sachs (Analyst)
-Jaguar Land Rover India (GMET) (Graduate Mechanical Engineer Trainee)
-Jaguar Land Rover India (GSET) (Graduate Software Engineer Trainee)
-DG Takano (Mechanical Design Engineer)
-Jaguar Land Rover India (GEET) (Graduate Electronics Engineer Trainee)
-Cohesity (Research Engineer)
-Amazon (SDE)
-Microsoft (Software Engineer)
-Larsen & Toubro Limited (Post Graduate Engineering Trainee (PGET) / Post Graduate Management Trainee (PGMT))
-HSBC Technology India (SWE)
-Enphase Energy (Hardware)
-Enphase Energy (Embedded + Cloud)
-Nference (Software Engineer / Data Science)
-Sprinklr India Pvt. Ltd. (Product Engineering 1  and Platform Software Engineering)
-Qualcomm India Pvt. Ltd. (Hardware)
-Sprinklr India Pvt. Ltd. (Data Scientist)
-Sprinklr India Pvt. Ltd. (Product Analyst)
-ZS Associates (Data Science)
-Navi (Software Development Engineer)
-Quadeye Securities (-)
-Oil India Limited (Senior Officer/Engineer on Probation)
-Harness (Software Engineer)
-Fareye (SDE)
-Sterlite Technologies (Graduate Engineer Trainee(GET))
-Siemens Healthineers (Engineer)
-Samsung Semiconductor (Digital)
-Samsung Semiconductor (Software)
-Samsung Semiconductor (Analog)
-EXL Service (Consultant I)
-Axis Bank (Analyst)
-Axis Bank (Digital Product Owner)
-Axis Bank (Technology)
-Squarepoint Capital (Graduate Software Engineer)
-VMware (Developer)
-Dream11 (Software Engineer)
-Jio Platforms (SDE - TS2)
-Jio Platforms (SDE - TS1)
-ADLOID Technologies Pvt. Ltd. (SDE- Software Development Engineer)
-NVIDIA Graphics (SWE)
-LAM Research (Senior Electrical Engineer)
-JioSaavn Media Ltd (Software Engineer)
-PayPal India Pvt Ltd (Software Engineer)
-Mastercard (Analytics Consulting)
-Swiggy-Bundl Technologies Pvt. Ltd. (SDE 1)
-Uber India System Pvt Ltd. (Software Engineer)
-Jio Platforms Ltd. (Manager)
-Udaan (Software Engineering)
-Oski Technology, Inc. (Formal Verification Engineer)
-Auronova Consulting (Analyst)
-Samsung Research Institute, Bangalore (Engineer (Developer))
-Paytm (Software Engineer)
-Tata AIG (Data Science)
-Tata AIG (Risk Engineer)
-Eaton (Engineer)
-ZS Associates (BOA and DAA)
-ExxonMobil (Geologist & Geophysicist)
-ICICI Bank (Management Trainee)
-Texas Instruments (Embedded SW)
-Postdot Technologies Private Limited (Postman) (Software Engineer)
-ThoughtSpot India Private Limited (Member of Technical Staff)
-Fractal Analytics Pvt. Ltd. (Imagineer)
-ArcelorMittal Nippon Steel India (Graduate Engineer)
-KLA Tencor (Software Engineer)
-Cleartax (Software)
-Cleartax (Business Analyst)
-Deutsche Bank (Graduate Analyst)
-Udaan (Operations)
-ADLOID Technologies Pvt. Ltd. (Business Analyst)
-Razorpay Software Private Limited (Product Designer)
-Vedantu (SDE)
-HDFC Life (Graduate Trainee)
-Micron Technologies Operations India LLP (Data Scientist)
-Micron Technologies Operations India LLP (Hardware)
-Myntra (SE)
-ClearTrail Technologies Pvt. Ltd. (Core Development)
-Wipro (Project Engineer)
-Chegg Inc (Software Engineer)
-Innoplexus (Associate Data Scientist)
-Myntra (Data Analyst)
-Praxis Global Alliance (Associate Consultant)
-Analog Devices (Digital Design Engineer)
-Futures First (Market Analyst)
-Veritas (Software Engineer)
-Deskera Systems India Pvt. Ltd. (Software Development)
-American Express (SDE -Engineer Trainee, Technology)
-OnePlus (Software Engineer)
-Groww (Product Designer)
-LG Ads (Data Science)
-Razorpay Software Private Limited (Software Developer)
-Amagi Media Labs Pv. Ltd. (Software Engineer)
-Samsung Research Institute, Bangalore
-Quantbox (Analyst Infrastructure - India)
-Pandit Deendayal Petroleum University, Gandhinagar (Assistant Professor)
-Javis (Software Developer)
-BeeHyv Software Solutions Pvt Ltd (Software Developer)
-Axtria India Pvt Ltd (Analyst)
-Udaan
-Effiya (Consulting)
-Off Campus (College)
-Merilytics (Senior Business Analyst)
-Searce (Business Technology Analyst/Cloud Consultant)
-Razorpay Software Private Limited (Software Development Engineer in Test)
-Rippling (Software Engineer)
-bitFlyer Blockchain Inc. (Blockchain engineer)
-InnoMinds (Tech)
-Vehere (Engineer Trainess)
-Larsen & Toubro Infotech Limited (Data Engineer)
-Futures First (Walk-In)
-GE Healthcare
-Larsen & Toubro Infotech Limited (BFS (Banking & financial Services)- Trainee)
-Classplus (Business Analyst)
-Classplus (Program Associate)
-IIFL (Software developer)
-NBC Bearings (National Engineering Industries) (Graduates Engineers Trainee)
-Decision Point (Business Analyst)
-Hind Rectifiers Pvt. Ltd. (Power electronics design)
-O9 Solutions  Management  India  Pvt. Ltd. (Product Application Engineer)
-Strand Life Sciences (Associate Software Engineer)
-Haalliburton Development Centre, India (Technology Professional)
-Contata Solutions Pvt. Ltd. (System Analyst)
-Quantiphi Analytics Solution Private Limited (Machine Learning Engineer,  Business Analyst)
-ASC Infratech (Trainee Engineer)
-Vconstruct Pvt Ltd (Project Engineer-VDC)
-SCA TECHNOLOGIES INDIA PVT LTD (Software Engineer)
-TATA Advanced System Pvt Ltd (Engineer trainee)
-DIT University (Dehradun) (Assistant Professor)
-ImpactGuru (Business Development)
-ZopSmart (Software Enginner)
-Times Internet Limited - ILN (Software Development)
-Kylas (Project Engineer)
-ATCS (Data Engineer)
-Nagarro Software (P) Ltd (Software Development)
-Fareportal (Software Engineering)
-V3iT Consulting (Junior Software Engineer)
-Regent Climate Connect Knowledge Solutions Pvt Ltd (Software Engineer)
-Finnovation Tech Solutions Pvt. Ltd (Kreditbee/Krazybee) (Software Engg)
-FN Mathlogic (Analyst)
-Technoforte Software Pvt Ltd (Developer)
-Sciative Solutions (Data Analyst)
-Jalan Technology Consulting (Software Engineer)
-Cognizant Technology Solutions (Base+)
-CSRL (Academic Officer)
-Tata Steel (Mechanical)
-Truminds Software Systems Pvt. Ltd. (Software Engineer)
-Flipkart (Product Design)
-MIKO (Jr. AI Development & NLP Engineer)
-MIKO (Jr. Mechanical Engineer)
-MIKO (Jr. Robotics Engineer)
-Go Lorry Pvt Ltd (Frontend (Android and React) Engineer)
-Go Lorry Pvt Ltd (Operations Functional Lead)
-Dr. Reddy’s (Technical Trainee)
-IOL CHEMICALS AND PHARMCEUTICALS LIMITED (Trainee)
-Brigosha Technologies (Software Engineer (E-Mobilty and IoT))
-Rodic Consultants Pvt. Ltd (Trainee Engineer)
-R Systems International Ltd. (Software Engineer)
-Tata Consultancy Services (Technical)
-TekGrid Consulting Services Pvt Ltd (Front End Developer Developer)
-Vivachem Intermediates Private Ltd. (Graduate Engineer Trainee)
-Netcracker Technology (Associate , Software Engineer)
-Hindustan Petroleum Corporation Limited (HPCL) (Officer – Engineering)
-B&S Engineering Consultants Pvt. Ltd. (M.Tech.)
-Cubastion Consulting (Associate Consultant)
-HCL Technologies (ERS Software Engineer(HnC))
-HCL Technologies (ERS Software Engineer | SEMI)
-Shubhashray Housing India (Research Associate cum Planning Manager)
-PharmaACE Consulting (Associate Consultant)
-UniAcco‌ (Full Stack Engineer)
-Dolcera Information Technology Private Limited (M.Tech) (Trainee Patent Analyst)
-IFAS Pvt Ltd (Assistant Professor)
-Head Digital Works (Associate Software Engineer)
-Swastik Classes Private Limited (Faculty)
-Xion Multiventures Pvt. Ltd. (Algorithmic Trader)
-Dolcera : Digital Signal Processing (Trainee Patent Analyst)
-Unacademy (Educator)
-Koo App (Bombinate Technologies Pvt. Ltd.) (Backend/iOS/Android Engineers)
-Campus Management International Pvt Ltd (Software Developer)
-SmartCoin Financials Pvt. Ltd. (Software Engineering,  Quality Engineering ,  Backend Engineering)
-HCL Technologies Ltd. (Software Engineer)
-Amazon Development Center Germany (Offcampus)
-Newzera Tech Labs Pvt. Ltd. (Offcampus)
-John Deere India Pvt Ltd (Post Graduate Engineer Trainee)
-Jindal Stainless (Post Graduate Engineer Trainee)
-Vishakha Polyfab P.  Ltd (Graduate Engineer Trainee (GET))
-Supertal (IT)
-Microsoft (Norway)
-Dar Al Handasah (Enviornmetal Engineer)
-Mastercard
 JP Morgan Chase & Co
-Sprinklr India Pvt. Ltd.
-Uber India System Pvt Ltd.
-BNY Mellon
-ExaWizards India LLP
+Diverta Inc.
+Wells Fargo
+LG Ads
+SRF Limited
+Gameskraft Technologies
+Solar Energy Corporation of India Limited
+iRageCapital Advisory Pvt Ltd
+SAP Labs India Pvt Ltd
+Jaguar Land Rover India
+DG Takano
+Enphase Energy
+Nference
+Navi
+Quadeye Securities
+Oil India Limited
+Fareye
+Samsung Semiconductor
+Jio Platforms
+ADLOID Technologies Pvt. Ltd.
 NVIDIA Graphics
-Axis Bank
+LAM Research
+JioSaavn Media Ltd
+Swiggy-Bundl Technologies Pvt. Ltd.
+Jio Platforms Ltd.
+Udaan
+Oski Technology, Inc.
+Samsung Research Institute, Bangalore
+Tata AIG
+Postdot Technologies Private Limited
+ThoughtSpot India Private Limited
+ArcelorMittal Nippon Steel India
+KLA Tencor
+Cleartax
+Deutsche Bank
+Razorpay Software Private Limited
+Vedantu
+HDFC Life
+Micron Technologies Operations India LLP
+ClearTrail Technologies Pvt. Ltd.
+Chegg Inc
+Deskera Systems India Pvt. Ltd.
+OnePlus
+Groww
+Amagi Media Labs Pv. Ltd.
+Quantbox
+Pandit Deendayal Petroleum University, Gandhinagar
+Javis
+BeeHyv Software Solutions Pvt Ltd
+Effiya
+Off Campus
+Merilytics
+Searce
+Rippling
+bitFlyer Blockchain Inc.
+InnoMinds
+Vehere
+Larsen & Toubro Infotech Limited
+GE Healthcare
+Classplus
+IIFL
+NBC Bearings
+Hind Rectifiers Pvt. Ltd.
+O9 Solutions  Management  India  Pvt. Ltd.
+Strand Life Sciences
+Haalliburton Development Centre, India
+Quantiphi Analytics Solution Private Limited
+Vconstruct Pvt Ltd
+SCA TECHNOLOGIES INDIA PVT LTD
+TATA Advanced System Pvt Ltd
+DIT University
+ImpactGuru
+ZopSmart
+Times Internet Limited - ILN
+Kylas
+Fareportal
+V3iT Consulting
+Regent Climate Connect Knowledge Solutions Pvt Ltd
+FN Mathlogic
+Technoforte Software Pvt Ltd
+Sciative Solutions
+Jalan Technology Consulting
+Truminds Software Systems Pvt. Ltd.
+MIKO
+Go Lorry Pvt Ltd
+Dr. Reddy’s
+IOL CHEMICALS & PHARMCEUTICALS LIMITED
+Brigosha Technologies
+Rodic Consultants Pvt. Ltd
+R Systems International Ltd.
+Tata Consultancy Services
+TekGrid Consulting Services Pvt Ltd
+Vivachem Intermediates Private Ltd.
+Netcracker Technology
+Hindustan Petroleum Corporation Limited
+Cubastion Consulting
+HCL Technologies
+Shubhashray Housing India
+PharmaACE Consulting
+UniAcco‌
+Dolcera Information Technology Private Limited
+IFAS Pvt Ltd
+Head Digital Works
+Swastik Classes Private Limited
+Dolcera : Digital Signal Processing
+Unacademy
+Koo App
+Campus Management International Pvt Ltd
+SmartCoin Financials Pvt. Ltd.
+HCL Technologies Ltd.
+Amazon Development Center Germany
+Newzera Tech Labs Pvt. Ltd.
+John Deere India Pvt Ltd
+Vishakha Polyfab P.  Ltd
+Supertal
+Dar Al Handasah
+ExaWizards India LLP
 MTX Group Inc
 Samsung R&D, Delhi
 Willings, Inc.
-iRageCapital Advisory Pvt Ltd
-Larsen & Toubro Infotech Limited
 JSW Group
-Zomato
 Hono
 I'm beside you
 Sparrow
@@ -1133,773 +900,301 @@ Qulabs Software
 NoBroker Technologies Solutions Private Limited
 Yum
 Lakshmikumaran & Sridharan Attorneys
-UIDAI (Young Engineering graduates)
-Trexquant (Quantitative Research)
-Media.net (SDE)
-Rakuten Mobile, Inc. (Software Engineer)
-Infurnia Technologies (Application Development)
-Slice (Software Development Engineer – I)
-Galytix (Software Engineers / Data Engineers)
-Accenture Japan Ltd. (Digital Consultant)
-American Express (Management Trainee, Analytics)
-American Express (Engineer Trainee, Software Engineering)
-Accenture Solutions Pvt. Ltd(india) (MC Delivery Associate)
-Dream11 (Software Development Engineer)
-Plutus Research Pvt Ltd (Quantitative Analyst)
-Plutus Research Pvt Ltd (Infrastructure Development)
-Flipkart (APM)
-Quantbox (Analyst - Core Engineering)
-Quantbox (Analyst - Quant Research And Trading)
-Standard Chartered GBS India Pvt Ltd. (Software Engineer/Techno Banker)
-AlphaGrep Securities (Quant Trader)
-Zomato (Software Engineer)
-Graviton Research Capital LLP (Software Engineer)
-TRAI (Technical Research Associate)
-Uber India System Pvt Ltd. (Software Engineer I)
-CASHFREE PAYMENTS INDIA PRIVATE LIMITED (Software Development Engineer)
-Microsoft (Data Science)
-Microsoft (Software Engineering)
-Jaguar Land Rover India (GMET) (Graduate Mechatronics Engineer Trainee)
-Saavn Media Limited (SOFTWARE)
-Edgeverve Systems (Member of Technical Staff)
-Razorpay (Software Development Engineer)
-Twilio (Software Engineer)
-Hindustan Unilever Limited (Unilever Future Leadership Program)
-VMware (Member of Technical Staff)
-Apple India (Software Development Engineering)
-KLA Tencor (Product Applications Engineer)
-Licious (Delightful Gourment Pvt Ltd) (SDE)
-Licious (Delightful Gourment Pvt Ltd) (Business Analyst)
-Sprinklr India Pvt. Ltd. (Product Engineer and Platform Software Engineer)
-Piramal Group (Management Trainee)
-Oracle India Pvt. Ltd. (Applications Engineer)
-Oracle India Pvt. Ltd. (Member Technical Staff (Server Technology Group))
-Enphase Energy (Software)
-PayU (Software)
-Mathworks (Associate in Engineering Development Group)
-Chegg Inc (Software Enginnering)
-UrbanCompany (Software Development Engineer)
-Flipkart (Software Development Engineering)
-Texas Instruments (Analog /Digital Engineer)
-Meesho (Product Designer I)
-Wells Fargo (Program Associate B - FTE Analytics)
-VISA Inc. (Software Engineer)
-Squarepoint Capital (Graduate Software Developer)
-Squarepoint Capital (Graduate Software Developer(overseas))
-Qualcomm (HW engineer/SW Engineer/Systems Engineer (Modem Fw, RFIC))
-Salary Box (Software)
-Tata1mg (Software Engineer)
-Bajaj Auto Limited (GTE / PGTE)
-Udaan (Software Engineer)
-JP Morgan Chase & Co (Quantative Research)
-Intel Technology Pvt. Ltd. (TTI hardware)
-Intel Technology Pvt. Ltd. (hardware)
-MX Player (Software Developer)
-Byju's (Software Engineer)
-Yashwantrao Chavan College of Engineering (Assistant Professor)
-Triomics
-Samsung R&D, Delhi (Software Engineer)
-Google (SWE)
-Samsung Research Institute, Bangalore (Developer)
-Quadeye Securities (Sysytems)
-John Deere Technology Pvt. Ltd (PGET)
-MX Player (Product Associate)
-Esper(Shoonya Software Services Pvt Ltd) (SDE-Entry Level)
-APT Portfolio Pvt Ltd (Software Engineers)
-APT Portfolio Pvt Ltd (Data Engineers)
-CarDekho (Machine Learning)
-CarDekho (Product Analyst)
-CarDekho (SDE)
-Samsung Semiconductor (Software Developer (communication))
-Cisco Systems (Software Engineer)
-Cisco Systems (Hardware Engineer)
-Indus Insights (Associate)
-Cairn India (Gradudate Engineer Trainee)
-Indus Insights (Senior Associate-in-Training)
-OLA (Data Scientist)
-OLA (Software)
-OLA (Business Analyst)
-OLA (Vehicle Engineer)
-Amazon (Software Development Engineer)
-IQVIA (Analyst)
-SAP Labs India Pvt Ltd (Developer Associate)
-Reliance Industries Limited (Graduate Engineer Trainee)
-DP World (Graduate Engineer Trainee)
-PayPal India Pvt Ltd (Software Engineer 1)
-Mercedes Benz (PGET- Mechanical Engineering)
-ExxonMobil (Engineers)
-Cybertech Systems And software ltd (Sr. Soft ware engineer -Geo Analytics)
-Micron Technologies Operations India LLP (SSD Firmware Engineer/Memory Circuit Design verification Engineer/Mnand Firmware Engineer/CAD Development Engineer/Signal Integrity Engineer)
-IFFCO Tokyo (Senior Executive - H1)
-Deloitte India (Cloud Engineering- Analyst)
-Javis (SDE-backend)
-Javis (Data Scientist)
-Clear (SWE I)
-Clear (Analyst)
-SaaS Labs US, Inc. (Software Engineer)
-ZebPay (Software Engineer)
-Slice
-Bank Of America (Sr. Tech Associate)
-Samsung Research Institute, Bangalore (Advanced Developer)
-Enphase Energy (hardware)
-UrbanCompany (Associate Product Manager)
-PhonePe Private Limited (Software)
-Tata Steel (Management Trainee (R&T))
-Flipkart (AM Business Development)
-Bank Of America (Team Leader ( Finance Roles))
-NVIDIA Graphics (System Software Engineer)
-Instabase
-Oyo (Software Developer)
-NVIDIA Graphics (Formal Verification Engineer)
-Midas Research and Development Center India Private Limited (Technical Support Engineer)
-Havells India Limited (Young Igniters)
-UniAcco‌ (Front End, Back End, Full Stack, Product Manager, Data Scientist , UX Designer)
-Groww (Business Associate)
-ONGC (Geologist , Geophysicist (Surface / Wells))
-Shadowfax Technologies Pvt. Ltd. (Tech Roles(Android Developer, SDE 1,Date Engineer ,DevOps Engineer & Data Scientist))
-Shadowfax Technologies Pvt. Ltd. (Business Analytics)
-Citibank (Technology Analyst)
-Tiger Analytics (Analyst - Data Science)
-Schlumberger Asia Services Limited (Field Engineer)
-Isgec Heavy Egngineering Ltd (Sr. Engineer)
-NoBroker Technologies Solutions Private Limited (Product Analyst,ADS,SDE)
-Futures First (Trainee - Market Analyst)
-Discovery+ (Software Development Engineer 1)
-Myntra (Software Engineer)
-Genpact (Pega Developer , Consultant , Database Developer , AWS Data Engineer , Full Stack Java Engineer)
-PwC (Risk Analytics / Architecture)
-ZS Associates (Data Science Associate)
-Samsung Semiconductor
-AU Small Finance Bank (Product Manager / BA)
-Razorpay (Product Design)
-ADLOID Technologies Pvt. Ltd. (Software Development Engineer)
-ADLOID Technologies Pvt. Ltd. (Associate Product Manager)
-Infoedge (Data Scientist)
-Aarti Industries Limited (Management Trainee - Mechanical)
-NimbleEdge (ML Researcher)
-Jio Platforms Ltd. (Software Engineer-TS1)
-Jio Platforms Ltd. (Software Engineer- TS2)
-Head Digital Works (Associate Data Scientist)
-Head Digital Works (Associate Product Manager)
-Head Digital Works (Software Engineer)
-Tech Mahindra (Business Analyst)
-ITC Limited (ASSISTANT UNDER TRAINING)
-Testbook Edu. Solutions Pvt. Ltd. (Product Manager/SDE/Program Manager/Business Manager/Analyst)
-Cogoport Pvt Ltd (Associate Software Engineer)
-PwC (Consultant(3 roles))
-Sprinklr (Design)
-Axis Bank (Business System Analyst(Information Technology))
-Axis Bank (Risk Analytics)
-Axis Bank (Business Analyst (Business Intelligence Unit))
-Razorpay (Analytics Associate)
-Swiggy-Bundl Technologies Pvt. Ltd. (Product Analyst)
-Sigmoid (SDE)
-BLEND360 (Data Science)
-CropIn Technology Solutions (Software Engineer)
-Arm Embedded Technologies Pvt Ltd (Graduate Engineer)
-EY India (Associate Consultant)
-Kotak Mahindra Bank (Business Analyst, Analytics Tech- Analytics CoE , UI Developers, Back end Developers)
-Mastercard (AI/ML)
-Publicis Sapient (Software Engineer)
-Merilytics (Senior Business Analyst.)
-TVS Motor Company Ltd (Design Engineer (Mechanical/ Mechatronics))
-Ekanek Networks (Software Development Engineer)
-TVS Motor Company Ltd (Design Engineer (Microelectronics with Control Specialization))
-Swiggy-Bundl Technologies Pvt. Ltd. (Product Designer)
-Larsen & Toubro Limited (Management Trainee Recruitment)
-Larsen & Toubro Limited (Post Graduate Engineer Trainee)
-ISA Accelaero (Software Engineer)
-Bharat Electronics  Limited (BEL) (Probationary engineer)
-ZS Associates (Decision Analytics Associate)
-ZS Associates (Business Technology Solutions.)
-RedSeer Consulting (Business Analyst)
-Robert Bosch Engineering and Business Solutions Private Limited (RBEI) (AUTONOMOUS DRIVING/ELECTRIFICATION/BLOCKCHAIN/CYBER SECURITY/AI & ML/Cloud and IoT/Site Reliability Engineering & DevNet)
-Uber International (Software Engineer I)
-Micron Singapore (Product Engineer)
-Larsen & Toubro Infotech Limited (Data Products)
-Larsen & Toubro Infotech Limited (MSD)
-CityMall (Software Development Engineer)
-CityMall (Business Analyst)
-Enphase Energy (Cloud-SW(Walk-in))
-Innoplexus (Associate Data Engineer/ Associate Software Engineer)
-CityMall (Product Designer)
-Tata AIG (Product & Stratergy)
-OLA (Software (Walk-in))
-Mathworks (Bachelors - Associate in Engineering Development Group(walk in))
-Ring Central (DS[Walkin])
-Inito (Software Engineer)
-Dailyhunt (Verse ) (Associate Business / Product Analyst)
-Inito (Associate Product Manager)
-Simpl(One Sigma Technologies Pvt Ltd) (Data Scientist)
-Fareye (Walk in (Software))
-SmartCoin Financials Pvt. Ltd. (Software Engineer)
-Zee Entertainment Enterprises Limited (Software Engineer(walkin))
-HDFC Life (Graduate Trainee(Walkin))
-IQVIA (Software Engineer (WALK IN))
-UniAcco‌ (UI/UX Designer(walk in))
-Shadowfax Technologies Pvt. Ltd. (APM)
-Sigmoid (SWE (Walk Ins))
-Merilytics (Senior Analyst (Walk-In))
-Arup India Pvt. Ltd. (Graduate Engineer)
-Classplus (Revenue  Manager)
-Uniacco Pvt Ltd (Junior full-stack role)
-HFCL Ltd. (Post Graduate Engineer Trainee (5g))
-Shopee (Operations Analyst)
-Oceaneering (Engineering Analyst)
-Relaxo Footwears Limited (GET)
-IIFL Finance (Software Developer)
-Gemini Solutions Private Limited (Software Engineer)
-PharmaACE Consulting (Data Scientist)
-SirionLabs Pvt Ltd (Associate Software Engineer)
-TransOrg Solutions & Services Pvt Ltd (Analyst)
-Decision Point (Data Scientist)
-Ninjacart (SDE)
-ThreeSides Corporation (System Development Engineer - I(Frontend))
-Infineon Technologies (NCG Position)
-Datta Meghe institute of Medical Sciences-Deemed to be University (Assistant professor)
-ICICI Securities (Software Developer)
-ICICI Securities (Software Engineer)
-ICICI Securities (Data Analytics)
-Cubastion Consulting Pvt Ltd (Graduate Trainee Engineer)
-Quantiphi Analytics Solution Private Limited (Business Analyst/Machine Learning Engineer/Framework Engineer)
-Technoforte Software Pvt Ltd (Software)
-Capgemini (Associate Consultant)
-HCL Technologies (Software-Tech)
-vConstruct Pvt Ltd (Project Engineer)
-Total Environment Building Systems Pvt Ltd (Assistant Manager | Architect)
-Decimal Technologies Pvt. Ltd. (Technical Architect)
-Flynava Technologies (Data Scientist)
-Ultratech Cement Limited (Assistant Manager)
-MEDIBUDDY (SDE)
-Oyo (Business Analyst)
-TATA Advanced System Pvt Ltd (PGET)
-RBL Bank (Technology Trainee)
-Holcim Group (Deputy Manager)
-Bridgei2i (Business Analyst/Data Scientist)
-Air Liquide Global E&C Solution India Private Ltd. (Trainee Engineer)
-Jaguar Land Rover India (Test Architect) (Test Architect)
-Droom Technology Limited (Associate Software Enginner)
-Byju's (Teaching faculty)
-Byju's (Subject Matter Expert)
-E-Ring IT Solutions Private Limited (Software Development Engineer)
-AECOM GDC India (Graduate Engineer)
-WNS Global Services (Trainee Analyst)
-Larsen & Toubro Infotech Limited (Multiple Profiles)
-Thought Genesis (Software Engineer)
-Maruti Suzuki (GET)
-Paperpedia pvt. ltd (Academic Writers- 1) Advanced Econometrics, 2) Advanced Statistics 3) Game Theory 4) R 5) Python 6) Financial)
-CHAITANYAS ACADEMY (Faculty)
-Chapter Apps (Software Developer)
-MIT World Peace University (Professor/Associate Professor/ Assistant Professor)
-Mahindra and Mahindra Ltd. (Post Graduate Engineer Trainee)
-Folium Labs Pvt Ltd (Research Scientist, Research Engineer/Applied Scientist)
-AECOM (Post Graduate Engineer Trainee)
-HCL Technologies (Lead Engineer/Material Specialist)
-Orchids (Senior Faculty OCFP)
-EMERGY Enviro Pvt. Ltd (Project Associate)
-Solar Energy Corporation of India Limited (SECI) (Executive Trainee)
-ICICI Lombard GIC Ltd. (Senior Manager)
-ICICI Lombard GIC Ltd. (Actuarial Analyst)
-Orchids (Senior Faculty OCFP-2)
-Atotech (Development Engineer)
-Trilogy Innovation (Software Development Engineer)
-Media.net (Software Development Engineering)
-AppDynamics (Software Engineer)
-Slice (Software Development Engineer)
-Procol
-Sprinklr
-Wells Fargo
-John Deere India Pvt Ltd
-UiPath
-SAP Labs India Pvt Ltd
-Rubrik
-Truminds Software Systems Pvt. Ltd.
-DevRev
-AlphaGrep Securities
-VISA Inc.
-CarDekho
-Enphase Energy
-Indeed
-Retail AI (Tech Japan)
-APT Portfolio Pvt Ltd
-KLA Tencor
-Micron Technologies Operations India LLP
-Newzera Tech Labs Pvt. Ltd.
-Quantbox
-Trilogy Innovation
-Infoedge
-UniAcco‌
-Jubilant Foodworks
-MAVERICK DERIVATIVES (Graduate Developer)
-Qualcomm India Pvt. Ltd. (HW engineer/SW Engineer/Systems Engineer)
-Accenture (Strategy and Consulting)
-Qualcomm India Pvt. Ltd. (Hardware PPO)
-Qualcomm India Pvt. Ltd. (Software PPO)
-UIDAI (Technical Executive)
-Sprinklr (Product Engineer)
-Sprinklr (Data Scientist)
-American Express (Engineer Trainee)
-American Express (Management Trainee)
-Oracle India Pvt. Ltd. (Member Technical Staff)
-Oracle India Pvt. Ltd. (Applications Developer)
-Zomato Limited (Software Development Engineer)
-Newzera Tech Labs Pvt. Ltd. (Software Engineer)
-Navi Technologies Pvt. Ltd. (SDE)
-Navi Technologies Pvt. Ltd. (Data Science)
-Navi Technologies Pvt. Ltd. (Analytics)
-Accenture Japan Ltd. (Strategy Consultant, AI Architect, Business Consultant, Data Scientist, Digital Consultant)
-Zepto (Software Engineer)
-Flipkart (Software Development Engineer)
-Flipkart (Associate Product Manager)
-Wells Fargo (Program Associate)
-Blume Global India Pvt. Ltd. (Associate Software Engineer)
-Intel Technology Pvt. Ltd. (Hardware Engineer)
-Boston Consulting Group (Associate)
-Saavn Media Limited (SOFTWARE ENGINEER)
-Standard Chartered GBS India Pvt Ltd. (Development Engineer)
-Oyo (Software Development Engineer – I)
-HSBC (Associate, Global Markets)
-vConstruct (project engineer)
-vConstruct (software engineer VDC)
-Dealshare (Software Development Engineer)
-Mastercard (Associate Consultant- Analytics Consulting)
-Cisco Systems (ASIC Engineer)
-Squarepoint Capital (Graduate Software Developer(overseas + domestic))
-Squarepoint Capital (Graduate Software Developer(only domestic))
-Groww (Associate Business Analyst)
-Texas Instruments (Digital Engineer)
-Texas Instruments (Analog Engineer)
-Arzooo (SDE - 1)
-Arzooo (Associate Product Manager)
-GoKwik (SDE-1)
-DP World (Software Development Engineer)
-ST Microelectronics (Design Engineer (PG))
-Zepto
+UIDAI
 Trexquant
-DCM Shriram (Technical Management Trainee)
-Plutus Research Private Limited (Infrastructure Developer)
-Deloitte India (Analyst)
-Jaguar Land Rover India (Graduate Software Engineer Trainee)
-NVIDIA (Formal Verification Engineer)
-BLEND360 (Data Scientist, data engineer, business intelligence analyst)
-NVIDIA (System Software Engineer)
-Enphase Energy (HW / eSW/ eFW / System DVT/ SIT/ Automation)
-TATA Advanced System Pvt Ltd (Post Graduate Engineer Trainee)
-Inito (SDE Backend)
-Inito (Data scientist)
-Mastercard (Data Scientist 1)
-IRAGE BROKING SERVICES LLP (SDE)
-JP Morgan & Chase (Software Engineer)
-JP Morgan & Chase (Quantitative Research Analyst)
-Samsung R&D Institute Bangalore (Engineer/Senior Engineer - Advance Developer Role Hiring (Research based role))
-Samsung R&D, Delhi (software developer engineer)
-Cowi (Engineering Trainee)
-Cairn India (Graduate Engineer Trainee)
-BNY Mellon (Software Developer)
-Samsung Semiconductor India Reseach (Senior Engineer(hardware ))
-Axis Bank (Business Intellignce Unit)
-Axis Bank (Product Owner)
-Bajaj Auto Limited (GET/PGET)
-Ramboll India (Assistant Engineer)
-EXL Service (Consultant I (Band-B1))
-EXL Service (Consultant I SBA (Band-B1))
-Shimizu Corporation India Pvt. Ltd (Electrical/ Mechanical/ Civil  Engineer)
-Standard Chartered GBS India Pvt Ltd. (Risk Analyst)
-Arup India Pvt. Ltd. (Fire Engineering)
-ONGC (Geologist , Geophysiscist (Surface))
-Jio Platforms (Software Developer)
-Jio Platforms (ECE Core)
-Edgeverve Systems (IT)
-Jaguar Land Rover India (Lead Power Electronic Control Software) (Graduate EV-Powertrain (Software) Trainee)
-GreenKoGroup (GET)
-yubi (Software Engineer)
-Tata AIG (Software Engineer/ Data Scientist)
-Tata AIG (Claims Management)
-Barclays (Decision Analyst)
-Barclays (Associate Data Scientist)
-Barclays (Graduate Analyst - QA Model Development/ Modelling systems)
-Tata Project (Executive Trainee)
-Meesho (Product Designer)
-Flipkart (Assistant Manager, Business Development)
-Cogoport Pvt Ltd (SDE- 2)
-CNH INDUSTRIAL (GET,PGET)
-Javis (Data Engineer)
-Javis (Software Development Engineer I (Backend))
-Javis (Software Development Engineer I (Front End))
-jio platforms limited (SDE (TS1)/Manager)
-K12 Techno Services Pvt Ltd (Software Development Engineer)
-Reliance Industries Limited (Graduate Engineering Trainee (GET))
-Jio Platforms Limited (SDE (TS2)/Manager)
-Bhanzu (Software Engineer)
-Junglee Games (Business Analyst)
-National Payments Corporation Of India (NPCI) (Senior GET)
-HiLabs (Software Development Engineer)
-HiLabs (Associate Product Manager (International))
-HiLabs (Data Scientist)
-RSPL Group (Junior Scientist/ Scientist)
-Newzera Tech Labs Pvt. Ltd. (Designer)
-Jaguar Land Rover India (Power electronics)
-Schlumberger Asia Services Limited (Geologist/Geophysicist/Petrophysicist)
-Sterlite Technologies (Graduate Engineer Trainee / Post Graduate Engineer Trainee)
-Acuvon Consulting Pvt. Ltd. (Analyst)
-Blume Global India Pvt. Ltd. (Associate - Data Science)
-Tessell (SDE)
-Merilytics (Senior Technical Associate)
-Tata1mg (SDE 1)
-S.P. Singla Constructions (ENGINEER (DESIGN))
-Quantiphi Analytics Solution Private Limited (Framework Engineer)
-Quantiphi Analytics Solution Private Limited (Machine Learning Engineer)
-Tata Motors (Trainee)
-ExxonMobil (Engineer)
-Cogoport Pvt Ltd (SDE-1)
-Quintics (Business Analyst)
-Futures First (MARKET ANALYST-TRAINEE)
-AECOM (Early Career Professional)
-Navi Technologies Pvt. Ltd. (Software development)
-Axxela Advisory Services (Trainee Analyst)
-Arth Design (Management Trainee - BIM)
-Enphase Energy (Systems Engineer – Sr. Engineer)
-Optum (SOFTWARE DEVELOPMENT ENGINEER)
-Trident Limited (PULP & PAPER)
-Tata Steel (Management Trainee Technical)
-Aakash BYJU's (Software Development Engineer)
-Oceaneering (Engineer)
-JM Financials (Data Science - Data Scientist)
-Reliance Industries (New Energy) (Mobility)
-Reliance Industries (New Energy) (Polysilicon and Ingot wafer operations and Technology)
-Reliance Industries (New Energy) (Solar Project Execution)
-Reliance Industries (New Energy) (Solar Technology)
-Reliance Industries (New Energy) (Battery)
-National Health Authority (Engineer Trainee)
-ICICI Lombard GIC Ltd. (Senior Manager – Strategy & Innovation)
-ICICI Lombard GIC Ltd. (Senior Manager – Technology (IVA))
-Maruti Suzuki (Post Graduate Engineer Trainee)
-AECOM (Early Career Professional (Earthquake engineering))
-schneider electric (Master Engineer Trainee)
-Jio Platforms (FPGA/ASIC Design Engineer)
-Kotak Mahindra Bank (Analytics)
-Kotak Mahindra Bank (Data Tech)
-PwC (Consultant)
-Ultratech Cement Limited (Management Trainee)
-91Squarefeet (Operation Manager, Design Consultant)
-Bank Of America (Sr Tech Associate)
-Prototyze (UI, UX, Graphic design)
-Zee Entertainment Enterprises Limited (Associate Software Development Enginee)
-Innoplexus (Research Analyst)
-Innoplexus (Junior Data Scientist)
-Innoplexus (Associate Software Engineer)
-Accenture Solutions Pvt. Ltd(india)
-Javis (Walk in) (SDE Front End)
-Javis (Walk in) (Machine Learning Engineer)
-HCL Technologies (technical lead)
-Calance Software Private Limited (Consultant Technology)
-Brigosha Technologies (Junior Research Engineer)
-Enphase Energy (B.tech CS/HW/Cloud All (only for publishing results))
-Newzera Tech Labs Pvt. Ltd. (Walk-In)
-ZL Technologies (Software Development)
-jio platforms limited (Walk-in(SDE (TS2)/Manager))
-Justdial Ltd (Graduate Engineering Trainee)
-Thornton Tomasetti (Engineer)
-Aakash BYJU's (Software Development Engineer (Walk-In))
-Nation with Namo (Data Analyst)
-Jio Platforms Limited ((Walk-In) Software Developer)
-Jio Platforms Limited ((walk-in)ECE Core)
-Folium Labs Pvt Ltd (Junior Research Scientist)
-Tata Consultancy Services (Researcher)
-Publicis Sapient (Senior Associate Data Science)
-K12 Techno Services Pvt Ltd ([Walk-in]UI/UX Design)
-BeeHyv Software Solutions Pvt Ltd (Developer Trainee)
-ZL Technology - Walk In (Software Development)
-Bert Labs (Research Engineer Data Scientist)
-Bert Labs (Full Stack Developer)
-Bert Labs (Embedded Firmware)
-Bert Labs (Embedded Hardware)
-FN Mathlogic Consulting Services Private Limited (Analyst)
-Nokia Solutions and Networks India Pvt. Ltd (Graduate Engineer Trainee)
-Digit Insurance (Engineering Trainee)
-HCL Technologies (Design lead)
-IFFCO Tokyo (Senior Executive)
-Nucleus Software Exports Ltd (Software engineer)
-Addverb Technologies Pvt.Ltd (Software)
-Addverb Technologies Pvt.Ltd (Mobile Robotics)
-Hindustan Petroleum Corporation Limited (HPCL) (Officer- Engineering)
-Vodafone Idea (Software)
-Cogoport Pvt Ltd (Business Consultant)
-Asper.ai (Full stack developer)
-Asper.ai (Data Scientist)
-LARSEN AND TOUBRO LIMITED (MANAGEMENT TRAINEES (MTs) / POST GRADUATE ENGINEER TRAINEES (PGETs))
-Tata Communications Ltd (Product Engineer)
-Aakash Educational Services Ltd (Assistant Lecturer)
-Isgec Heavy Egngineering Ltd (Senior Engineer)
-PharmaACE Consulting (Consultant)
-RAYS POWER EXPERTS (Business Analyst)
-Godrej Properties (Assistant Manager)
-Jungleworks (Associate Software Engineer)
-JP Morgan & Chase (Quant PPO)
-JP Morgan & Chase (Software PPO)
-Tolaram Group (SIX SIGMA FACILITATOR)
-Sunflag Iron & Steel Co. Ltd (R&D/ Manufacturing - Engineer)
-EnvoPAP (Product Development Executive)
-CDAC Banglore (PA/PE)
-Tata Consutancy Services (Systems Engineer)
-Bharat Electronics Limited (BEL) (PROBATIONARY ENGINEER)
-KINGFA SCIENCE AND TECHNOLOGY  LIMITED (POST GRADUATE ENGINEER- TRAINEE)
-Burger Singh (Business Analyst)
-Infosys Limited (Lead Experience Design)
-VYAS EDIFICATION (Assistant Lecturer)
-CONVEGENIUS DIGITAL INDIA PVT LTD (SOFTWARE ENGINEER)
-Bakliwal Tutorials (Faculty)
-Kreditbee (Software Engineer)
-Vedanta Limited (PGET- Post Graduate Engineer Trainee)
-64squares (Business Analyst)
-Bharat Electronics  Limited (BEL) (Member(Research Staff))
-Haber (Trainee Territory Manager(paper packaging))
-Allen Career Institute (Training Lecturer)
-MODI SCHOOL (Trainee Faculty)
-Rystad Energy India Pvt Ltd. (CCUS Analyst)
-Nestle India Ltd. (Technical Leadership Trainee)
-Climajo Private Limited (Packaging Consultant)
-Intellect Design Arena (Product Engineer - AI)
-Candor Health (Engineer)
-WestRock India Pvt. Ltd. (Paper & Packaging)
-Jubilant Generics Limited (Trainee)
-FIITJEE LTD (Teaching Positions)
+Rakuten Mobile, Inc.
+Infurnia Technologies
+Slice
+Galytix
+Accenture Solutions Pvt. Ltd
+Plutus Research Pvt Ltd
+AlphaGrep Securities
 Graviton Research Capital LLP
+TRAI
+CASHFREE PAYMENTS INDIA PRIVATE LIMITED
+Saavn Media Limited
+Twilio
+Apple India
+Licious
+Piramal Group
+PayU
+UrbanCompany
+Meesho
+VISA Inc.
+Salary Box
+Tata1mg
+MX Player
+Byju's
+Yashwantrao Chavan College of Engineering
+Triomics
+John Deere Technology Pvt. Ltd
+Esper
+APT Portfolio Pvt Ltd
+CarDekho
+OLA
+DP World
+Mercedes Benz
+Cybertech Systems & software ltd
+IFFCO Tokyo
+Deloitte India
+Clear
+SaaS Labs US, Inc.
+ZebPay
+Bank Of America
+Instabase
+Oyo
+Midas Research & Development Center India Private Limited
+Havells India Limited
+Shadowfax Technologies Pvt. Ltd.
+Tiger Analytics
+Schlumberger Asia Services Limited
+Isgec Heavy Egngineering Ltd
+Discovery+
+PwC
+AU Small Finance Bank
+Infoedge
+Aarti Industries Limited
+NimbleEdge
+Tech Mahindra
+Testbook Edu. Solutions Pvt. Ltd.
+Cogoport Pvt Ltd
+Sigmoid
+BLEND360
+CropIn Technology Solutions
+Arm Embedded Technologies Pvt Ltd
+EY India
+Kotak Mahindra Bank
+TVS Motor Company Ltd
+Ekanek Networks
+ISA Accelaero
+Bharat Electronics  Limited
+RedSeer Consulting
+Robert Bosch Engineering & Business Solutions Private Limited
+Micron Singapore
+CityMall
+Ring Central
+Dailyhunt
+Simpl
+Zee Entertainment Enterprises Limited
+Arup India Pvt. Ltd.
+Uniacco Pvt Ltd
+HFCL Ltd.
+Shopee
+Oceaneering
+Relaxo Footwears Limited
+IIFL Finance
+SirionLabs Pvt Ltd
+ThreeSides Corporation
+Infineon Technologies
+Datta Meghe institute of Medical Sciences-Deemed to be University
+vConstruct Pvt Ltd
+Decimal Technologies Pvt. Ltd.
+Flynava Technologies
+Ultratech Cement Limited
+MEDIBUDDY
+RBL Bank
+Holcim Group
+Bridgei2i
+Air Liquide Global E&C Solution India Private Ltd.
+Droom Technology Limited
+E-Ring IT Solutions Private Limited
+AECOM GDC India
+WNS Global Services
+Thought Genesis
+Paperpedia pvt. ltd
+CHAITANYAS ACADEMY
+Chapter Apps
+MIT World Peace University
+Folium Labs Pvt Ltd
+AECOM
+Orchids
+EMERGY Enviro Pvt. Ltd
+ICICI Lombard GIC Ltd.
+Atotech
+Trilogy Innovation
+Procol
+UiPath
+Rubrik
+DevRev
+Indeed
+Retail AI
+Jubilant Foodworks
+MAVERICK DERIVATIVES
 Zomato Limited
-Tata AIG
-Futures First (Trainee analyst PPO)
+Navi Technologies Pvt. Ltd.
+Zepto
+Blume Global India Pvt. Ltd.
+Boston Consulting Group
+Dealshare
+Arzooo
+GoKwik
+ST Microelectronics
+DCM Shriram
+Plutus Research Private Limited
+IRAGE BROKING SERVICES LLP
+JP Morgan & Chase
+Samsung R&D Institute Bangalore
+Cowi
+Samsung Semiconductor India Reseach
+Ramboll India
+Shimizu Corporation India Pvt. Ltd
+GreenKoGroup
+yubi
+Barclays
+Tata Project
+CNH INDUSTRIAL
+jio platforms limited
+K12 Techno Services Pvt Ltd
+Jio Platforms Limited
+Bhanzu
+Junglee Games
+National Payments Corporation Of India
+RSPL Group
+Tessell
+S.P. Singla Constructions
+Tata Motors
+Quintics
+Arth Design
+Aakash BYJU's
+JM Financials
+Reliance Industries
+National Health Authority
+schneider electric
+91Squarefeet
+Prototyze
+Calance Software Private Limited
+ZL Technologies
+Justdial Ltd
+Nation with Namo
+ZL Technology - Walk In
+Bert Labs
+FN Mathlogic Consulting Services Private Limited
+Nokia Solutions & Networks India Pvt. Ltd
+Digit Insurance
+Nucleus Software Exports Ltd
+Addverb Technologies Pvt.Ltd
+Vodafone Idea
+Asper.ai
+LARSEN & TOUBRO LIMITED
+Tata Communications Ltd
+Aakash Educational Services Ltd
+RAYS POWER EXPERTS
+Godrej Properties
+Jungleworks
+Tolaram Group
+Sunflag Iron & Steel Co. Ltd
+EnvoPAP
+CDAC Banglore
+Tata Consutancy Services
+Bharat Electronics Limited
+KINGFA SCIENCE & TECHNOLOGY  LIMITED
+Burger Singh
+Infosys Limited
+VYAS EDIFICATION
+CONVEGENIUS DIGITAL INDIA PVT LTD
+Bakliwal Tutorials
+Kreditbee
+Vedanta Limited
+Haber
+Allen Career Institute
+MODI SCHOOL
+Rystad Energy India Pvt Ltd.
+Nestle India Ltd.
+Climajo Private Limited
+Intellect Design Arena
+Candor Health
+WestRock India Pvt. Ltd.
+Jubilant Generics Limited
+FIITJEE LTD
 Micron Technology
 Circle K
-Samsung R&D Institute Bangalore
-Zepto (Software PPO)
-JP Morgan & Chase (QR PPO)
-JP Morgan & Chase (SEP PPO)
-Futures First (Quant PPO)
-Michiteku (Tech Japan)
-Jaguar Land Rover India (Mechatronics PPO)
-Jaguar Land Rover India (EV PPO)
-Jaguar Land Rover India Limited (Software PPO)
-Media.net (Software Development Engineer)
-VVF (Engineer Management Trainee (EMT) Profile)
-Samsung R&D Institute, Noida (Engineering R&D)
+Michiteku
+VVF
+Samsung R&D Institute, Noida
 Qube Research & Technology
-Zepto (Business Analyst - PPO)
-Accenture Solutions Pvt. Ltd(india) (S&C Delivery Associate)
 Stealth Edtech Startup
-Dolat Capital Market Pvt Ltd (Quantitative Analyst)
-Accenture Japan Ltd. (AI Architect)
-Accenture Japan Ltd. (Strategy Consultant)
-Accenture Japan Ltd. (Business Consultant)
-Barclays (Graduate Analyst (QA Model Monitoring/QA Model Development/ Modelling systems))
-Quicksell (Frontend developer/Backend Developer/Android Developer)
-Zenon (Software Engineer)
-American Express (Software Engineer - Technology)
-Bajaj Auto Limited (GTE/PGTE)
-Plutus Research Pvt Ltd (Infrastructure Developer)
-Palo Alto Network (Associate)
-Webstaff (Software Engineering)
-Databricks (Software Engineer(International/ Domestic ))
-Samsung Research Institute, Bangalore (Advance Developer)
-Meesho (Associate Product Manager)
-Intel Technology Pvt. Ltd. (Hardware Engineering)
-Google (Software Engineer)
+Dolat Capital Market Pvt Ltd
+Quicksell
+Zenon
+Palo Alto Network
+Webstaff
+Databricks
 Siemens Energy Limited
-SEDEMAC Mechatronics Pvt Ltd (R&D Engineer)
-Meesho (Software Development Engineer I)
-Qualcomm India Pvt. Ltd. (Engineer- HW/SW)
-Petronet LNG Limited (Management Trainee)
-Petronet LNG Limited (Graduate Engineer Trainee)
-Wooqer (Fullstack Developer)
-Schlumberger (Fullstack software Engineer)
-HiLabs (Software Developer / Data Scientist / Associate Product Manager)
-Samsung R&D Delhi (Engineer (B-Tech))
-Nation with Namo (Associate)
-Texas Instruments (Analog Engineer & Digital Engineer)
-Demyst (Software Engineer)
-Texas Instruments (Embedded Software Engineer)
-OLA Electric (SDE/Research Engineer)
-OLA Electric (Researchers/Analytics and Test Engineers)
-Tata Advanced Systems Limited (Post Graduate Engineer Trainee)
-NVIDIA (Verification Engineer)
-Axis Bank (Business Intelligence Unit)
-Axis Bank (Digital Banking And Transformation)
-Sahajanand Medical Technologies (Process Engineer)
-Micron Technology (Semiconductor Engineer)
-schneider electric (Graduate Engineer Trainee)
-Barclays (Graduate Analyst)
-Bharat Petroleum Corporation Ltd. (BPCL) (Management Trainee)
-EXL Service (Analytics - Consultant-Digital – Analyst)
-Cohesity (Member of Technical Staff)
-Inito (Mechanical Engineer)
-Inito (Electronics Engineer)
-Jaguar Land Rover India (Graduate EV-Powertrain (Software) Engineer Trainee- Women Hiring Process)
-Groww (ML Engineer - I)
-Inito (Software Engineer/Data Scientist/Associate Product Manager)
-DevRev (Design)
-Tata AIG (Underwriter)
-Tata AIG (Auto Claims)
-Javis (Data Engineer I/SDE I (Front End)/SDE I (Backend - Java)/ML Engineer I/SDE I (AI Team))
-Javis (Customer Success Manager I)
-Flipkart (Assistant Manager- Business Development)
-Oceaneering (Mechanical Engineer)
-Microsoft (Product (UX) Design)
-Navi Technologies Pvt. Ltd. (Software Development Engineer)
-Samsung Semiconductor India Reseach (Senior Engineer- Hardware (HW))
-Jaguar Land Rover India (Graduate Mechatronics Engineer Trainee)
-National Payments Corporation Of India (NPCI) (IT Analyst)
-DE Shaw (Technology Developer (SDE))
-Headout (Marketing Analyst / Program Manager)
-EXL Service (Analytics - Consultant I SBA (Band- B1))
-Merilytics (Senior Analyst Associate)
-Merilytics (Senior Analyst – Data Science)
-AVALON CONSULTING (Associate Consultant)
-FICO (Software Engineering - Associate & Solution Engineering – Associate)
-FICO (Analytic Science-Associate)
-Bajaj Auto Limited (GTE/PGTE (AI/ML))
-Total Environment (Design Analyst)
-Total Environment (Assistant Design Engineer)
-Larsen & Toubro Limited (Management Trainee)
-Larsen & Toubro Limited (Post Graduate Engineer Trainee(PGET))
-SuperAGI (AI Engineer)
-ThoughtSpot India Private Limited (Member Of Technical Staff)
-Schlumberger (SLB) (Geologist/Geophysicist/Petrophysicist)
-Schlumberger (SLB) (Field Engineer)
-Lohum (Graduate Trainee)
-Cleartax (Software Engineer)
-Futures First (Market Analyst Trainee)
-Hilti Technology Solutions India (Graduate Engineer (Technical Engineer))
-Reliance Industries (New Energy) (Team Member(Chemical/Materials))
-Reliance Industries (New Energy) (Team Member(Mechanical/Mechatronics))
-Accenture (Data Science Analyst)
-Zepto (Software Engineering)
-Zepto (Data Science)
-Walter P Moore Engineering India Pvt. ltd. (Construction Engineering)
-Schlumberger (SLB) (Electrical Engineer/Mechanical Engineer)
-Axxela Advisory Services (Market Analyst - Trader)
-APMSE Software Services Pvt. Ltd. (EagleView) (Software Enginee -1)
-Minimalist (Growth Manager/ Associate Product Manager/ Founders Office)
-Whirlpool (M Tech - Management Trainees)
-Jindal Stainless (Graduate Engineer Trainee)
-Hero MotoCorp (PGET)
-Rodic Consultants Pvt. Ltd (Graduate Engineer Trainee(Railways & Metro))
-DTICI (Engineering Trainee)
-IMC limited (Geoscientist (Geology/Geophysics ))
-91Squarefeet (Architect)
-91Squarefeet (Business Development - Design & Build Job)
-91Squarefeet (Project Manager)
-Schlumberger (SLB) (Data Scientist)
-IMC limited (Chemical Engineering)
-CNH INDUSTRIAL (PGET)
-S.P SINGLA CONSTRUCTIONS (ENGINEER (DESIGN))
-Chegg Inc (Software Engineer I)
-ICICI Lombard GIC Ltd. (Senior Manager Data Scientist)
-ICICI Lombard GIC Ltd. (Senior Manager Data Engineer)
-Asper.ai (Full stack development)
-Maruti Suzuki (PGET)
-Cybertech System And Software Ltd (Sr. Software Engineer– Geo Analytics)
-Isgec Heavy Engineering Ltd (Senior Engineer)
-ICICI Securities (Management Trainee)
-Tredence Analytics (Analyst)
-Convai Technologies Inc. (Backend/Unity Developer/Frontend/New Unreal Engine Developer/Grad Prompt Engineer/Grad NLP Engineer)
-WCB Robotics (Associate Design Engineer - Electronics)
-WCB Robotics (Associate Design Engineer - Robotics)
-C-DOT   (Centre for Development of Telematics) (RESEARCH ENGINEER)
-91Squarefeet (Project Manager(walk in))
-91Squarefeet (Software Development Engineering)
-Aarti Industries Limited (Management Trainee -Mechanical/Chemical)
-Sun Petrochemicals Pvt.Ltd (Senior Officer)
-Kellogg Brown and Root Engineering and Construction India Pvt. Ltd. (Associate Technical Professional)
-Geta.ai (Jr. Full Stack Development)
-CAFAL ADVISORS (Analyst)
-procmart (Management Trainee)
-Skillwin Technology Pvt Ltd (Octro) (Member of Technical Staff)
-GreenKoGroup (Post Graduate Engineer Trainee)
-SKAPS INDUSTRIES INDIA PVT LTD (Operations Trainee)
-SAINT -GOBAIN RESEARCH INDIA (SAINT -GOBAIN INDIA PVT LIMITED) (RESEARCH ENGINEER - 1,DATA ANALYST)
-Xion Multiventures Pvt. Ltd. (Trainee Research Analysis & Operation Support)
-Jindal Shadeed Iron &  Steel (Graduate Engineer Trainee (GET))
-Godrej Properties (Assistant Manager - Operations)
-Jungleworks (Software Sales Associate)
-Luminous Power Technologies (GET (RnD))
-Nucleus Software Exports Ltd (Software Engineer)
-Tata Consulting Engineers (Engineer Trainee)
-TCS (Business Units)
-Relaxo Footwears Limited (Management Trainee)
-Coforge Ltd. (Data Scientist / AI -ML Engineer)
-MORABU HANSHIN Industry Co.,Ltd. (IT engineer)
-Quest Global (Senior Engineer)
-Bharat Electronics  Limited (BEL) (Probationary Engineer (E-II))
-Vodafone Idea (6 months - 1 year of GET stint, confirmation in AGM level post completion of trainee stint)
-Oyo (Revenue Lead role)
-HCL Technologies (Technical Lead)
-Computer Age Management Services Limited (Software Development Engineers)
-Waisl (Graduate Engineer Trainee)
-Atkins (GET)
-Cubastion Consulting Pvt Ltd (Graduate Trainee Engineer (GTE))
-Cybermarine knowledge systems Pvt Limited (Structural Engineer)
-Larsen & Toubro Limited (Management Trainee (Tech))
-Gan Studio Private Limited (Deep Learning Engineer)
-SAEL Industries Limited (Graduate Engineer Trainee)
-TCS (Researcher)
-Oil India Limited (Engineer)
-Infosys Limited (Specialist Programmer)
-Hind Rectifiers Pvt. Ltd. (Graduate Engineer Trainee &   Sr. Engineer)
-TVS Motor (Post Graduate Engineer Trainee(PGET)|Design Engineer (Robotics, Automation & Mechatronics))
-K&S Partners (Patent Associate)
-Bharat Electronics Limited (BEL) (Member (Research Staff))
-Intellimation.ai (Software Engineer)
-Innvolution Healthcare Pvt Ltd (Software Engineer)
-RSPL Group (Junior Scientist (R&D- Hygiene))
-Mahindra and Mahindra Ltd. (GET & PGET)
-Datacultr (Software Developer)
-Microland (Engineering Trainee)
-Accenture (Knowledge AI)
-GAIL (India) Limited (EXECUTIVE TRAINEE (CIVIL))
-Kuantum Papers (Process Improvement)
-EMERGY Enviro Private Limited (Project Associate)
-knest manufacturing pvt ltd (Tarinee)
-FischerJordan LLC (Data Analayst/Business Analyst)
-NVIDIA (System Software Engineer (Finding Hopper))
-BAIF Development Research Foundation (Associate Programme Manager)
-Cyient (Mechanical Engineer)
-Qualcomm India Pvt. Ltd. (Associate Hardware Engineering)
-Reliance Industries Limited (Reliance Industries limited(GET))
-CSRL (TRAINEE FACULTY)
-KINGFA SCIENCE AND TECHNOLOGY  LIMITED (PG Trainee)
-MORABU HANSHIN Industry Co.,Ltd. (IT Engineer - Phase 2)
-Systra India (GET)
-V3It Consulting Inc. (Jr.Software Engineer)
-BEML Limited (Management Trainees)
-HCL Technologies (Fullstack Developer / Data Scientist / ML Engineer)
-Powerhouse91 (Marketing Associate)
-Powerhouse91 (Category Position)
-Tata Auto Comp Systems Ltd (PGET)
-Tata Consulting Engineers (PG Engineer Trainee)
-Nine Education IIT Academy (Senior Faculty)
-SRF Limited (Research Trainee)
-Concept  Institute (Faculty / Mentor)
-Turing Global India Private Limited (Delivery Data Scientist)
-O.P. Jindal Global University (Lecturer/Assistant Professor)
-Arthmatetech Private Limited (SDE - Trainee)
-Optum (Technical Support Engineer (Geotechnical))
-ONGC Videsh Ltd. (Retainer- Geology/Geophysics)
-SparkCognition (Software Engineer)
-AAJ Enterprises Pvt. Ltd. (Software Developer)
-Aakash Institute (Assistant Lecturer)
-K12 Techno Services Pvt Ltd (Senior Faculty- OCFP)
-Aakash Educational Services Ltd (Software Engineer)
-LIGHTNINGNODES TECHNOLOGIES PRIVATE LIMITED (Business Analyst)
-KUKU FM (Marketing Associate)
-VARUN BEVERAGES LTD. (GET)
-ZL Technologies (Staff-Software Engineer)
-Jalan Technology Consulting (Associate Software Developer)
-Aviso Software India LLP (Software Engineer)
-Myntra (Software Development)
-Flipkart (Business Analyst)
-Anakin Skywalker Pvt Ltd (Software Engineer)
-EnerTech Fuel Solutions Private Limited (RENEWABLE ENGINEER)
-Cogoport Pvt Ltd (SDE)
-Cogoport Pvt Ltd (Product analyst)
-Kazam EV Tech PVT Ltd(Project Delivery) (Project Delivery)
-Engineers India Limited (Management Trainee (HR))
-Adani Group (GET & PGET)
+SEDEMAC Mechatronics Pvt Ltd
+Petronet LNG Limited
+Wooqer
+Demyst
+OLA Electric
+Sahajanand Medical Technologies
+Bharat Petroleum Corporation Ltd.
+AVALON CONSULTING
+Total Environment
+SuperAGI
+Lohum
+Hilti Technology Solutions India
+Walter P Moore Engineering India Pvt. ltd.
+APMSE Software Services Pvt. Ltd.
+Minimalist
+Whirlpool
+Hero MotoCorp
+DTICI
+IMC limited
+S.P SINGLA CONSTRUCTIONS
+Cybertech System & Software Ltd
+Isgec Heavy Engineering Ltd
+Tredence Analytics
+Convai Technologies Inc.
+WCB Robotics
+Sun Petrochemicals Pvt.Ltd
+Kellogg Brown & Root Engineering & Construction India Pvt. Ltd.
+Geta.ai
+CAFAL ADVISORS
+procmart
+Skillwin Technology Pvt Ltd
+SKAPS INDUSTRIES INDIA PVT LTD
+SAINT -GOBAIN RESEARCH INDIA
+Jindal Shadeed Iron &  Steel
+Luminous Power Technologies
+Tata Consulting Engineers
+Coforge Ltd.
+MORABU HANSHIN Industry Co.,Ltd.
+Quest Global
+Computer Age Management Services Limited
+Waisl
+Cybermarine knowledge systems Pvt Limited
+Gan Studio Private Limited
+SAEL Industries Limited
+TVS Motor
+K&S Partners
+Intellimation.ai
+Innvolution Healthcare Pvt Ltd
+Datacultr
+GAIL
+Kuantum Papers
+EMERGY Enviro Private Limited
+knest manufacturing pvt ltd
+FischerJordan LLC
+BAIF Development Research Foundation
+Cyient
+Systra India
+V3It Consulting Inc.
+BEML Limited
+Powerhouse91
+Tata Auto Comp Systems Ltd
+Nine Education IIT Academy
+Concept  Institute
+Turing Global India Private Limited
+O.P. Jindal Global University
+Arthmatetech Private Limited
+ONGC Videsh Ltd.
+SparkCognition
+AAJ Enterprises Pvt. Ltd.
+LIGHTNINGNODES TECHNOLOGIES PRIVATE LIMITED
+KUKU FM
+VARUN BEVERAGES LTD.
+Aviso Software India LLP
+Anakin Skywalker Pvt Ltd
+EnerTech Fuel Solutions Private Limited
+Kazam EV Tech PVT Ltd
+Engineers India Limited
+Adani Group
