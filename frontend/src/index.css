@@ -67,7 +67,7 @@
 /* Remove padding for mobile devices */
 @media (max-width: 640px) {
     #root {
-        padding: 1rem !important; /* No padding on mobile devices */
+        padding: 0rem !important; /* No padding on mobile devices */
     }
 }
 }

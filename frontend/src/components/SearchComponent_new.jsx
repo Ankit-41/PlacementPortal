@@ -165,7 +165,7 @@ export default function PaginatedSearchFilter() {
         {/* Theme Toggle Switch Positioned at Top Right */}
         <ToggleSwitch />
       </CardHeader>
-      <CardContent className="text-gray-800 dark:text-gray-200">
+      <CardContent className="text-gray-800 dark:text-gray-200 sm:p-2">
         <div className="space-y-6">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" ref={dropdownRef}>
             <div className="relative">
